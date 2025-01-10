@@ -38,8 +38,8 @@ Please refer to our Jupyter Notebook named "ALY6140-final-report.ipynb" for more
 
 ## Authors
 
-*Yu-Sen Miao
-*Duy Nguyen
-*Shuting Chen
+* Yu-Sen Miao
+* Duy Nguyen
+* Shuting Chen
 
 
