@@ -17,7 +17,7 @@ The dataset is a combination of five different datasets containing real estate p
 * Address
 * Number of Residential Units
 * Number of Commercial Units
-* Size of Land in $ft^2$
+* Size of Land in $`ft^2`$
 * Gross Squared Feet
 * Year Built
 * Sale Price
