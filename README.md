@@ -22,6 +22,7 @@ The dataset is a combination of five different datasets containing real estate p
 * Year Built
 * Sale Price
 * Sale Date
+  
 The dataset contains missing values in important feature such as the sales price and year built. Initial analysis indicates that year built also has input errors. Please refer to our Jupyter Notebook named "ALY6140-final-report.ipynb" for more detailed data preperation and cleaning. 
 
 ## Methodologies
@@ -32,9 +33,11 @@ We will built five regression models to predict sale price namely:
 4. Decision Tree Regression
 5. Random Forest Regression
 6. XGboost
+   
 Please refer to our Jupyter Notebook named "ALY6140-final-report.ipynb" for more detailed on models building and performance assessment. 
 
 ## Authors
+
 Yu-Sen Miao
 Duy Nguyen
 Shiting Chen
