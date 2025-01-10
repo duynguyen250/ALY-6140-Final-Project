@@ -17,59 +17,27 @@ The dataset is a combination of five different datasets containing real estate p
 * Address
 * Number of Residential Units
 * Number of Commercial Units
-* Size of Land in $$ft^2$$
+* Size of Land in $ft^2$
+* Gross Squared Feet
+* Year Built
+* Sale Price
+* Sale Date
+The dataset contains missing values in important feature such as the sales price and year built. Initial analysis indicates that year built also has input errors. Please refer to our Jupyter Notebook named "ALY6140-final-report.ipynb" for more detailed data preperation and cleaning. 
 
-## Getting Started
+## Methodologies
+We will built five regression models to predict sale price namely:
+1. Linear Regression
+2. Lasso Regression
+3. Ridge Regression
+4. Decision Tree Regression
+5. Random Forest Regression
+6. XGboost
 
-### Dependencies
-
-* Describe any prerequisites, libraries, OS version, etc., needed before installing program.
-* ex. Windows 10
-
-### Installing
-
-* How/where to download your program
-* Any modifications needed to be made to files/folders
-
-### Executing program
-
-* How to run the program
-* Step-by-step bullets
-```
-code blocks for commands
-```
-
-## Help
-
-Any advise for common problems or issues.
-```
-command to run if program contains helper info
-```
 
 ## Authors
 
-Contributors names and contact info
+Yu-Sen Miao
+Duy Nguyen
+Shiting Chen
 
-ex. Dominique Pizzie  
-ex. [@DomPizzie](https://twitter.com/dompizzie)
 
-## Version History
-
-* 0.2
-    * Various bug fixes and optimizations
-    * See [commit change]() or See [release history]()
-* 0.1
-    * Initial Release
-
-## License
-
-This project is licensed under the [NAME HERE] License - see the LICENSE.md file for details
-
-## Acknowledgments
-
-Inspiration, code snippets, etc.
-* [awesome-readme](https://github.com/matiassingers/awesome-readme)
-* [PurpleBooth](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2)
-* [dbader](https://github.com/dbader/readme-template)
-* [zenorocha](https://gist.github.com/zenorocha/4526327)
-* [fvcproductions](https://gist.github.com/fvcproductions/1bfc2d4aecb01a834b46)
