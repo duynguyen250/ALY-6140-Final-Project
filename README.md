@@ -17,7 +17,7 @@ The dataset is a combination of five different datasets containing real estate p
 * Address
 * Number of Residential Units
 * Number of Commercial Units
-* Size of Land in $`ft^2`$
+* Size of Land in Squared Feet
 * Gross Squared Feet
 * Year Built
 * Sale Price
@@ -32,10 +32,9 @@ We will built five regression models to predict sale price namely:
 4. Decision Tree Regression
 5. Random Forest Regression
 6. XGboost
-
+Please refer to our Jupyter Notebook named "ALY6140-final-report.ipynb" for more detailed on models building and performance assessment. 
 
 ## Authors
-
 Yu-Sen Miao
 Duy Nguyen
 Shiting Chen
