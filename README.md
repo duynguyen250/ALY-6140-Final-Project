@@ -34,7 +34,7 @@ We will built five regression models to predict sale price namely:
 5. Random Forest Regression
 6. XGboost
    
-Please refer to our Jupyter Notebook named "ALY6140-final-report.ipynb" for more detailed on models building and performance assessment. 
+Please refer to our Jupyter Notebook named "[ALY6140-final-report.ipynb](https://github.com/duynguyen250/ALY-6140-Final-Project/blob/main/ALY6140-final-report.ipynb)" for more detailed on models building and performance assessment. 
 
 ## Authors
 
